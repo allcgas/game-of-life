@@ -1,3 +1,7 @@
+/** 
+ * test comment 
+ **/
+
 package com.wakaleo.gameoflife.webtests.steps;
 
 import com.wakaleo.gameoflife.webtests.pages.EnterGridPage;
